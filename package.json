@@ -1,0 +1,13 @@
+{
+  "name": "discord-bot-jarvis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Pavem Máca <maca.pavel@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
